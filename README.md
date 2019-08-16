@@ -12,5 +12,5 @@ docker pull opspresso/skaffold
 ## version
 
 ```
-ENV VERSION v0.35.0
+ENV VERSION v0.36.0
 ```
