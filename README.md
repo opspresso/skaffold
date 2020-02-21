@@ -12,11 +12,11 @@ docker pull opspresso/skaffold
 ## version
 
 ```
-ENV VERSION v1.3.1
+ENV VERSION v1.4.0
 ```
 
 ## latest
 
 ```
-ENV LATEST v1.3.1
+ENV LATEST v1.4.0
 ```
