@@ -12,7 +12,7 @@ docker pull opspresso/skaffold
 ## version
 
 ```
-ENV VERSION v1.19.0
+ENV VERSION v1.19.0-darwin-arm64
 ```
 
 ## latest
